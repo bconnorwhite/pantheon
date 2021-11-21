@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "incremental": true,
+    "jsx": "preserve",
+    "lib": [
+      "esnext"
+    ],
+    "module": "commonjs",
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "noUncheckedIndexedAccess": true,
+    "noUnusedLocals": true,
+    "outDir": "build",
+    "removeComments": false,
+    "resolveJsonModule": true,
+    "rootDirs": [
+      "source"
+    ],
+    "skipLibCheck": true,
+    "strict": true,
+    "target": "es2018"
+  },
+  "include": [
+    "source"
+  ]
+}
