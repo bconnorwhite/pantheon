@@ -24,6 +24,7 @@
     "extends": "eslint-config-bob"
   },
   "dependencies": {
+    "@bconnorwhite/exec": "^6.0.10",
     "commander-version": "^2.0.0"
   }
 }
